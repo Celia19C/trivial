@@ -1,2 +1,1 @@
-# trivial
-Juego de preguntas
+# TestingSaberYGanar
